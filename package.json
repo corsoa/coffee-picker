@@ -1,0 +1,20 @@
+{
+  "name": "coffee-picker",
+  "version": "0.0.1",
+  "description": "Quiz-like format for choosing a coffee subscription.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "demo",
+    "coffee"
+  ],
+  "author": "Aaron Corso",
+  "license": "MIT",
+  "devDependencies": {
+    "bower": "^1.7.7",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2"
+  }
+}

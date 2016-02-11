@@ -1,0 +1,26 @@
+{
+  "name": "coffee-picker",
+  "description": "Quiz-like format for choosing a coffee subscription.",
+  "main": "index.js",
+  "authors": [
+    "Aaron Corso"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "demo",
+    "coffee"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-material": "^1.0.5"
+  }
+}
